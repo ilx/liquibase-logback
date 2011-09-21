@@ -1,0 +1,1 @@
+This is an implementation of liquibase logger backed by logback.
